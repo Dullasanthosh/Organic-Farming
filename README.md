@@ -1,9 +1,9 @@
 # Organic-Farming:
-This is a Informational bot application developoed for education related to give information about MS Azure.
+This is a Informational bot application developoed for farmer's related to give information about organic farming .
 
 ### This web based informational bot application has been developed for the accomplishment of future ready talent internship program launched by microsoft, future skil prime, Quess, GitHub,EY.
 
-## project link: "https://sites.google.com/view/azure-chat-bot-azure-websites/contact"
+## project link: "https://sites.google.com/view/organicfarming-azure-website/home"
 
 
 ## Project title:
@@ -19,7 +19,7 @@ I have created a informational bot named "Organic Farming" using Html and servic
 - Has many features and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
 - Has collection of pages including Home, About, Contact, ChatBot, F.A.Q and education (Ms Azure) realted information.
-- User can know about information on Ms Azure through this bot.
+- User can know about information on organic farming through this bot.
 - Included the contact information to increase scope of improvement.
 ## About ChatBot 💬:
 - Created a chat bot About Organic Farming.
