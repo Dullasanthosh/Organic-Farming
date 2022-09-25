@@ -30,3 +30,6 @@ I have created a informational bot named "Organic Farming" using Html and servic
 - Azure ChatBot useful for both learners and explorers.
 - Main concept that my bot gives;About Azure,how it works, history, full forms and detailed view of Azure.
 ## Screenshorts:
+### Home Page
+![OF-1](https://user-images.githubusercontent.com/112766004/192130338-76138fea-14ba-441f-b17a-4d6e7baba574.png)
+
