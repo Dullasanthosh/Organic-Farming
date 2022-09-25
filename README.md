@@ -43,4 +43,6 @@ I have created a informational bot named "Organic Farming" using Html and servic
 
 ![OF-7](https://user-images.githubusercontent.com/112766004/192131445-bc2aa29f-84b4-434b-b754-fe7c6e434c0a.png)
 
+![cont-page](https://user-images.githubusercontent.com/112766004/192151469-5e201797-8716-462e-9d43-8e8d383624d4.png)
+
 
