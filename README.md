@@ -12,7 +12,7 @@ This is a Informational bot application developoed for education related to give
    
 ## Project description 😃 :
 
-I have created a informational bot named "Organic Farming" using Html and services like QnA maker,Web app bot.It helps the user to finds information about Organic Farming like ; What is Organic Farming and about latest Farming. In this website I make five pages i.e; Home, About, Contact, F.A.Q, ChatBot. It's look likes a professional bot. I am trying to solve the real world problem like in these days we are searching for good and genuine website,apps etc.for information here and there. So I make a bot where I try to give every details of Azure . My project helps both learners and explorers like for learners I provided every details i.e; history, developer (s), services etc.. and for explorers I gave website links and everything there in the bot to know more to create , build, deploy etc ...
+I have created a informational bot named "Organic Farming" using Html and services like QnA maker,Web app bot.It helps the user to finds information about Organic Farming like ; What is Organic Farming and about latest Farming technology's. In this website I make five pages i.e; Home, About, Contact, F.A.Q, ChatBot. It's look likes a professional bot. I am trying to solve the real world problem like in these days we are searching for good and genuine website,apps etc.for information here and there. So I make a bot where I try to give every details of Organic Farming . My project helps both learners and explorers like for learners I provided every details i.e; history, developer (s), services etc.. and for explorers I gave website links and everything there in the bot to know more to create , build, deploy etc ...
 
 ## Features and functionalities 🧐:
 - Interactive and responsive UI
@@ -22,13 +22,13 @@ I have created a informational bot named "Organic Farming" using Html and servic
 - User can know about information on Ms Azure through this bot.
 - Included the contact information to increase scope of improvement.
 ## About ChatBot 💬:
-- Created a chat bot About Azure.
+- Created a chat bot About Organic Farming.
 - Also available with app.
-- "Azure ChatBot" looks like a professional bot where you can find (or) know information about "Microsoft Azure" .
-- Bot contains information about Azure like i.e; history, of Azure and services etc..
+- "Organic Farming ChatBot" looks like a professional bot where you can find (or) know information about "Organic Farming".
+- Bot contains information about Organic Farming like i.e; history, of Organic Farming etc..
 - we provided Gallery in home page to find more and also official website with links with innovative ideas ; go through it.
-- Azure ChatBot useful for both learners and explorers.
-- Main concept that my bot gives;About Azure,how it works, history, full forms and detailed view of Azure.
+-Organic Farming ChatBot useful for both learners and explorers.
+- Main concept that my bot gives;About Organic Farming,how it works, history, full forms and detailed view of Organic Farming.
 ## Screenshorts:
 ### Home Page
 ![OF-1](https://user-images.githubusercontent.com/112766004/192130338-76138fea-14ba-441f-b17a-4d6e7baba574.png)
