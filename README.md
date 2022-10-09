@@ -31,10 +31,12 @@ I have created a informational bot named "Organic Farming" using Html and servic
 - Main concept that my bot gives;About Organic Farming,how it works, history, full forms and detailed view of Organic Farming.
 ## Screenshorts:
 ### Home Page
-![OF-1](https://user-images.githubusercontent.com/112766004/192130338-76138fea-14ba-441f-b17a-4d6e7baba574.png)
+![ofr-1](https://user-images.githubusercontent.com/112766004/194742115-fbf5b44d-9170-4bb7-912d-8eafa71f362a.png)
 ### Chat Bot Page
-![OG-2](https://user-images.githubusercontent.com/112766004/192130539-60b8b355-e773-468a-9e2a-72c85ea25492.png)
-
+![ofr-2](https://user-images.githubusercontent.com/112766004/194742128-b9b08521-cb21-436c-95b5-229e368da692.png)
+### Frequently Asked Question's
+![ofr-3](https://user-images.githubusercontent.com/112766004/194742132-1807da2f-7984-4fc1-9237-a21df333423d.png)
+### Organic Farming Gallery
 ![OF-3](https://user-images.githubusercontent.com/112766004/192131424-0a80ee6c-7d86-4894-b5a7-d1e95256159e.png)
 
 ![OF-5](https://user-images.githubusercontent.com/112766004/192131432-d5d74a1e-f30a-4283-b1d6-ab881cc27332.png)
